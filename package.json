@@ -4,7 +4,8 @@
   "description": "Helper library for javascript function replacement in tests or specs",
   "version": "0.1.1",
   "repository": {
-    "url": ""
+    "type": "git"
+    "url": "https://github.com/dmskr/nonmock/"
   },
   "main": "nonmock.js",
   "dependencies": { },

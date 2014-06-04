@@ -2,9 +2,9 @@
   "author": "Dmitry Skrinnik",
   "name": "nonmock",
   "description": "Helper library for javascript function replacement in tests or specs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
-    "type": "git"
+    "type": "git",
     "url": "https://github.com/dmskr/nonmock/"
   },
   "main": "nonmock.js",
@@ -16,5 +16,8 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha nonmock_spec.js"
   }
 }

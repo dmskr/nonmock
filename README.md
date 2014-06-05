@@ -1,7 +1,7 @@
-NonMock ![CircleCI Build Status](https://circleci.com/gh/dmskr/nonmock.png)
+NonMock ![CircleCI Build Status](https://circleci.com/gh/dmskr/nonmock.png?circle-token=a278c180ad14288c9dbb41df4da32a673257422f)
 =======
 We don't need a mocks and stubs in javascript, just a little help with replacing existing functions and restoring them back.
-helps with function replacing in javascript specs and tests
+NonMock helps with function replacing in javascript specs and tests
 
 ```js
 var monkey = {
